@@ -1,4 +1,3 @@
-Vehicle Dynamics Simulations in Simulink
 This project contains Simulink models and simulations focused on analyzing and improving vehicle dynamics through various subsystems. The models were developed to study ride quality, stability, and handling characteristics under different operating conditions.
 
 Features
